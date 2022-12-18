@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"Mouse",
+        "price":100
+    },
+    {
+        "id":2,
+        "title":"Laptop",
+        "price":10000
+    },
+    {
+        "id":3,
+        "title":"iphone",
+        "price":20000
+    },
+    {
+        "id":4,
+        "title":"Samsung",
+        "price":15000
+    }
+]
